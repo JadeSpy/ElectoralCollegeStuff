@@ -1,0 +1,51 @@
+Texas: 1.3
+Florida: 1.35
+California: 1.39
+New York: 1.44
+North Carolina: 1.44
+Georgia: 1.49
+Virginia: 1.51
+New Jersey: 1.51
+Ohio: 1.53
+Arizona: 1.54
+Pennsylvania: 1.54
+Washington: 1.56
+Colorado: 1.56
+Illinois: 1.56
+Massachusetts: 1.56
+Michigan: 1.59
+Tennessee: 1.59
+Maryland: 1.62
+Indiana: 1.62
+Missouri: 1.62
+Oregon: 1.65
+Wisconsin: 1.7
+Louisiana: 1.72
+Minnesota: 1.75
+South Carolina: 1.76
+Oklahoma: 1.77
+Kentucky: 1.78
+Alabama: 1.79
+Iowa: 1.83
+Utah: 1.87
+Nevada: 1.93
+Connecticut: 1.94
+Arkansas: 1.99
+Mississippi: 2.03
+Kansas: 2.04
+Idaho: 2.17
+New Mexico: 2.36
+Nebraska: 2.55
+Hawaii: 2.75
+Montana: 2.77
+West Virginia: 2.79
+New Hampshire: 2.9
+Maine: 2.94
+Delaware: 3.03
+South Dakota: 3.38
+Rhode Island: 3.65
+North Dakota: 3.85
+Alaska: 4.09
+DC: 4.35
+Vermont: 4.67
+Wyoming: 5.2
